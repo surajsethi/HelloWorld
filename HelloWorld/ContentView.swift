@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack(alignment: .center) {
             Button("Hello, world!") {
-                print("hiya")
+                print("hiyttsa")
             }
             
             Image(systemName: "globe")
